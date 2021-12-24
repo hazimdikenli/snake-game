@@ -1,0 +1,9 @@
+#canvas {
+  width: 500px;
+  height: 300px;
+  position: relative;
+  outline: 3px solid green;
+}
+body {
+  box-sizing: border-box;
+}
